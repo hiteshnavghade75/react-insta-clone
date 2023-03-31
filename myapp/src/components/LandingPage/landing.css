@@ -1,0 +1,30 @@
+.landing > img{
+    width: 300px;
+}
+
+.main-div{
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+.left-container{
+    display: flex;
+}
+
+.right-container{
+    padding-left: 100px;
+    padding-top: 100px;
+    font-size: 32px;
+    color: #008000;
+}
+
+#btn{
+    margin-left: 50px;
+    width: 75px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid green;
+    color: green;
+}

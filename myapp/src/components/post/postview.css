@@ -1,0 +1,36 @@
+.header-section{
+    height: 100px;
+    padding-top: 25px;
+    border-bottom: 2px solid rgb(202, 221, 202);
+}
+
+.header-text{
+    display: inline-block;
+    color: rgb(13, 67, 13);
+    padding-bottom: 50px;
+    font-size: 54px;
+    padding-bottom: 50px;
+}
+.header-section > header > img{
+    float: left;
+    margin-left: 200px;
+}
+
+#cam-logo{
+    float: right;
+   margin-right: 200px;
+}
+
+.post-section{
+    border: 2px solid rgb(174, 243, 195);
+    margin-left: 50px;
+    margin-right: 50px;
+    height: auto;
+}
+
+.show-posts{
+    width: 500px;
+    height: auto;
+    border: 2px solid rgb(163, 234, 163);
+    margin: auto;
+}

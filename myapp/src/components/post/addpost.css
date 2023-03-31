@@ -1,0 +1,65 @@
+.header-section{
+    height: 100px;
+    padding-top: 25px;
+    border-bottom: 2px solid rgb(202, 221, 202);
+}
+
+.header-text{
+    display: inline-block;
+    color: green;
+    padding-bottom: 50px;
+    font-size: 54px;
+    padding-bottom: 50px;
+}
+.header-section > header > img{
+    float: left;
+    margin-left: 200px;
+}
+
+#cam-logo{
+    float: right;
+   margin-right: 200px;
+}
+
+.form-section{
+    width: 100vw;
+    height: 50vh;
+}
+
+.form-container{
+    width: 30vw;
+    height: 50vh;
+    border: 2px solid rgb(165, 216, 165);
+    margin: auto;
+}
+
+.form-container > form > .block-input{
+    display: block;
+    width: 80%;
+    height: 30px;
+    margin: auto ;
+    border: 1px solid #707070;
+    margin-top: 30px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+.form-container > form > .inline-input{
+    display: inline-block;
+    width: 30%;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 55px;
+    border: 1px solid #707070;
+    border-radius: 5px;
+}
+
+.btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #707070;
+}
